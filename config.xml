@@ -32,5 +32,13 @@ Samantha Solis Villegas  4H
  <!--Third party plugins-->
  
    <!--Colocar icono app-->
+   
+   <!--Para accesar a paginas en internet-->
+  <allow-intent href="https://*/*"/>
+  <acces origin="http://*/*"/>
+  <allow-intent href="http://*/*"/>
+  <acces origin="http://*/*"/>
+  <plugin name="cordova-plugin-whitelist" source="npm"/>
+
   <icon src="res/android/mdpi.png"/>
   </widget> 
