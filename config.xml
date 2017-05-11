@@ -10,8 +10,8 @@ version="1.0.0">
 Aplicacion que muestra la informacion de la batlla de 5 de mayo
 </description>
 
-<author href="https://build.phonegap.com" email="samasv1402@gmail.com">
-Samantha Solis Villegas  4H
+<author href="https://build.phonegap.com" email="laishayose07@gmail.com">
+Laisha Yoselin Ortega Fernandez  4H
 </author>
 <!--Personaliza la aplicacion y plataforma-->
 <preference name="orientation"    value="default"/>
